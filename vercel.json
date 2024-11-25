@@ -8,5 +8,11 @@
       "source": "/ZpGv%5ELwB=JtqVkyZ=HrGnLtqp_Bn@k",
       "destination": "/ZpGv%5ELwB=JtqVkyZ=HrGnLtqp_Bn@k.html"
     }
+    {
+  "headers": [
+    {
+      "source": "/video/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "video/mp4" }
   ]
 }
